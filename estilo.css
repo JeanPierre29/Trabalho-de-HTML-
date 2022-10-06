@@ -1,0 +1,63 @@
+div#home{
+	
+	font-size:  30px;
+	font-family:  Arial;
+	border-radius:  10px;
+	text-align: center;
+}
+
+div#titulo {
+	background-color:  rgb(34, 19, 241);
+}
+
+div#titulo {
+	font-size:  30px;
+	font-family:  Arial;
+	border-radius:  10px;
+	text-align: center;
+}
+
+div#galeria{
+	background-image: url(copa2.jpg);
+
+}
+
+div#subtitulo {
+	font-size:  20px;
+	font-family:  Arial;
+	border-radius:  10px;
+	
+
+	background-image: url(fotocopa.jpg);
+
+}
+
+div#cont {
+	text-align: center;
+	
+}
+
+div#Questionario{
+	font-size:  30px;
+	font-family:  Arial;
+	border-radius:  10px
+	
+}
+
+div#Questionario{
+	text-align: center;
+}
+
+div#Respostas {
+	font-size:  20px;
+	font-family:  Arial;
+	border-radius:  10px;
+}
+
+div#tamanho{
+	font-size:  20px;
+	font-family:  Arial;
+	border-radius:  10px;
+
+}
+
